@@ -2,7 +2,6 @@ package com.company.demonstration;
 
 import com.company.BinaryTree;
 import com.company.BinaryTreePainter;
-import com.company.SimpleBinaryTree;
 import ru.vsu.cs.util.ArrayUtils;
 import ru.vsu.cs.util.SwingUtils;
 
