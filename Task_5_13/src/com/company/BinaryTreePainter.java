@@ -4,12 +4,9 @@ import java.awt.*;
 
 public class BinaryTreePainter {
 
-    public static final int TREE_NODE_WIDTH = 70,
-            TREE_NODE_HEIGHT = 30,
-            HORIZONTAL_INDENT = 10,
-            VERTICAL_INDENT = 50;
 
-    public static final Font FONT = new Font("Microsoft Sans Serif", Font.PLAIN, 20);
+
+    public static final Font FOT = new Font("Microsoft Sans Serif", Font.PLAIN, 20);
 
     private static class NodeDrawResult {
 
